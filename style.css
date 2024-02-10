@@ -29,7 +29,7 @@ header p {
 section.about,
 section.projects,
 section.contact {
-    background-color: #fff;
+    background-color: #red;
     margin: 20px 0;
     padding: 20px;
     border-radius: 8px;
